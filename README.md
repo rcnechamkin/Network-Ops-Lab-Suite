@@ -1,4 +1,4 @@
-# NetworkOps Lab Suite
+# Network Ops Lab Suite
 
 A portfolio of hands-on labs showcasing enterprise-grade networking skills in automation, auditing, and routing. Built using Cisco IOSv on EVE-NG and open-source tooling to reflect real-world NOC/MSP environments.
 
