@@ -1,0 +1,1 @@
+# Placeholder for convergence_log.txt
