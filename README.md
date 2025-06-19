@@ -5,7 +5,7 @@ A portfolio of hands-on labs showcasing enterprise-grade networking skills in au
 
 ---
 
-## 🔧 Lab 1: Network Automation with Ansible
+## Lab 1: Network Automation with Ansible
 
 Automate switch and router configurations using Ansible. This lab demonstrates how to:
 
@@ -30,7 +30,7 @@ Automate switch and router configurations using Ansible. This lab demonstrates h
 
 ---
 
-## 🧾 Lab 2: NetBox + Python Inventory Audit
+## Lab 2: NetBox + Python Inventory Audit
 
 Compare live router configurations against NetBox documentation using Python scripts. This simulates a real-world source-of-truth audit system.
 
@@ -53,7 +53,7 @@ Compare live router configurations against NetBox documentation using Python scr
 
 ---
 
-## 🌐 Lab 3: Multi-Site BGP Redundancy & Failover
+## Lab 3: Multi-Site BGP Redundancy & Failover
 
 Simulates a multi-site WAN with redundant ISP links. Includes:
 
@@ -81,7 +81,7 @@ Simulates a multi-site WAN with redundant ISP links. Includes:
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 ```
 networkops-lab-suite/
 ├── README.md
