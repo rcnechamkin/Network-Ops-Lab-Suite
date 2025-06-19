@@ -1,4 +1,5 @@
 # Network Ops Lab Suite
+[![Status: In Development](https://img.shields.io/badge/status-in_development-yellow)]()
 
 A portfolio of hands-on labs showcasing enterprise-grade networking skills in automation, auditing, and routing. Built using Cisco IOSv on EVE-NG and open-source tooling to reflect real-world NOC/MSP environments.
 
